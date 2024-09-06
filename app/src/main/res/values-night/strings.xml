@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tabla_de_datos">Tabla de Datos</string>
+    <string name="id">_id</string>
+    <string name="ID">ID</string>
+    <string name="Nombre">Nombre</string>
+</resources>

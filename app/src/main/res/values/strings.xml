@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Elementos1.4</string>
+    <string name="tabla_de_datos">Tabla de Datos</string>
+    <string name="id">_id</string>
+    <string name="ID">ID</string>
+    <string name="Nombre">Nombre</string>
+    <string name="APellido">Apellido</string>
+    <string name="correo">Correo\n</string>
+</resources>
